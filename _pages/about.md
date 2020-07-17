@@ -12,8 +12,8 @@ Erfan is currently a Graduate Research Assistant at University of Toronto. His m
 
 Prominent Awards
 ======
-• Ontario Graduate Scholarship Recipient - 2020-2021 ($15,000) \\
-• William Dunbar Memorial Scholarship - 2020 ($3,000)
+• Ontario Graduate Scholarship Recipient - 2020-2021 \\
+• William Dunbar Memorial Scholarship - 2020
 
 Contact info
 ------
