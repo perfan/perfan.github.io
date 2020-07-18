@@ -84,7 +84,7 @@ author:
   avatar           : "profile1.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Toronto, Canada"
-  employer         : "University of Toronto"
+  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "pirmorad@mie.utoronto.ca"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/perfanacademicpages"
+  github           : "https://github.com/perfan"
   google_plus      :  
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/EPirmorad"
+  twitter          : "EPirmorad"
   vine             :
   weibo            :
   xing             :
