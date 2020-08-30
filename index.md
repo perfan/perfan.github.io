@@ -29,7 +29,7 @@ layout: page
 </div>
 <br style="line-height:10%;">
 
-I'm a Grad student and research assistant at [UofT](https://www.utoronto.ca/), supervised by [Markus Bussmann](https://www.mie.utoronto.ca/faculty_staff/bussmann/).
+I'm a Grad student and research assistant at [University of Toronto](https://www.utoronto.ca/), supervised by [Markus Bussmann](https://www.mie.utoronto.ca/faculty_staff/bussmann/).
 
 My main research interest is on machine learning for scientific computing, the so-called Scientific Machine Learning, that embraces Physics-based and Data-driven modeling for Computational Physics, with focus on discovering physics of fluids and controlling flow behaviours through Deep Reinforcement Learning. Highly skilled in Software Development with expertise in Parallel Programming. Knowledgeable in many facets of High Performance Computing, including shared and distributed memory paradigms.
 
