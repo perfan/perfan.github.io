@@ -51,103 +51,21 @@ For more details, you can download the pdf version of my resume [{% include icon
 
 ## Experience 👨‍💼
 
-<!-- Apple Part Time-->
+<!-- Graduate research assistant -->
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/apple.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/UofT.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Apple</b>
-      <span style="float:right; color:#7a7a7a;">Nov 2019 - June 2020</span>
+      <b style="font-size: 130%;">University fo Toronto</b>
+      <span style="float:right; color:#7a7a7a;">September 2019 - Present</span>
     </p>
-    Part Time Research Intern<br>
+    Graduate Research Assistant<br>
     <p style="color:#7a7a7a">
-      Part time research on neural rendering during PhD with collaborators at Apple
-    </p>
-  </div>
-
-</div>
-
-<!-- Apple Internship-->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/apple.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">Apple</b>
-      <span style="float:right; color:#7a7a7a;">June 2019 - Aug 2019</span>
-    </p>
-    Research Intern<br>
-    <p style="color:#7a7a7a">
-      Research on Neural Rendering with Qi Shan
-    </p>
-  </div>
-
-</div>
-
-<!-- STIC -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/stic.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">Schlumberger STIC</b>
-      <span style="float:right; color:#7a7a7a;">June 2016 - July 2018</span>
-    </p>
-    Machine Learning Scientist<br>
-    <p style="color:#7a7a7a">
-      Created, implemented and deployed machine learning algorithms to solve problems in time series, vision and geology, improving state of the art for several tasks &bull; Research on deep generative models with a focus on learning interpretable representations
-    </p>
-  </div>
-
-</div>
-
-
-<!-- Gurobi -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/gurobi.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">Gurobi Optimization</b>
-      <span style="float:right; color:#7a7a7a;">June 2015 - Aug 2015</span>
-    </p>
-    Software Engineering Intern<br>
-    <p style="color:#7a7a7a">
-      Researched, formulated and solved integer optimization models for a wide area of industry applications including energy, telecom and medicine
-    </p>
-  </div>
-
-</div>
-
-
-<!-- DTU -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/dtu.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">DTU Compute</b>
-      <span style="float:right; color:#7a7a7a;">June 2013 - Sep 2013</span>
-    </p>
-    Research Intern<br>
-    <p style="color:#7a7a7a">
-      Research on sparse dynamics for PDEs with Allan Engsig-Karup
+      Full-timeg research assistant at Interfacial Flow Lab at [MIE Dept.](https://www.mie.utoronto.ca/) at University of Toronto. 
     </p>
   </div>
 
