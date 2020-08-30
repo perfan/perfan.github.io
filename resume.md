@@ -3,46 +3,25 @@ title: Resume
 layout: page
 ---
 
-For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/EmilienDupont/emiliendupont.github.io/raw/master/emilien_resume.pdf) (updated June 2020).
+For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/perfan/perfan.github.io/raw/master/erfan_resume.pdf) (updated August 2020).
 
 ## Education 🎓
-
-<!-- PhD -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/oxford.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">University of Oxford</b>
-      <span style="float:right; color:#7a7a7a;">2018 - 2021</span>
-    </p>
-    PhD Machine Learning<br>
-    <p style="color:#7a7a7a">
-      Supervised by Yee Whye Teh and Arnaud Doucet
-    </p>
-  </div>
-
-</div>
-
 
 <!-- MS -->
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/stanford.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/UofT.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Stanford University</b>
-      <span style="float:right; color:#7a7a7a;">2014 - 2016</span>
+      <b style="font-size: 130%;">University of Toronto</b>
+      <span style="float:right; color:#7a7a7a;">2019 - 2021</span>
     </p>
-    MS Computational Mathematics<br>
+    MASc Computational Mechanics<br>
     <p style="color:#7a7a7a">
-      GPA: 4.02
+      Supervised by Markus Bussmann, GPA: 4.00, Ontario Graduate Scholarship (OGS) recipient 
     </p>
   </div>
 
@@ -53,17 +32,17 @@ For more details, you can download the pdf version of my resume [{% include icon
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/imgs/resume-icons/imperial.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/resume-icons/UT.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Imperial College London</b>
-      <span style="float:right; color:#7a7a7a;">2010 - 2014</span>
+      <b style="font-size: 130%;">University of Tehran</b>
+      <span style="float:right; color:#7a7a7a;">2015 - 2019</span>
     </p>
-    BSc Theoretical Physics<br>
+    BSc Mechanical Engineering, (Minor) Computer Science<br>
     <p style="color:#7a7a7a">
-      Rank: 1/206 students, Grade: 87.2%
+      Rank: 1st, Grade: 97.1%
     </p>
   </div>
 
