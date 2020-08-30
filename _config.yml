@@ -44,10 +44,10 @@ paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: emidup # jekyll-seo-tag > Owners twitter username
-author: EmilienDupont # jekyll-seo-tag > default author
+  username: EPirmorad # jekyll-seo-tag > Owners twitter username
+author: ErfanPirmorad # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Emilien Dupont # jekyll-seo-tag > real name
+  name: ErfanPirmorad # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/EPirmorad
     - https://www.linkedin.com/in/erfan-pirmorad
@@ -83,7 +83,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Erfan Pirmorad" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/machine-learning-emoji.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/whale-emoji.png" # Site logo, also used in jekyll-seo-tag
 description: "Machine Learning & Computational Physics" # Site description and default description, also used in jekyll-seo-tag
 url: "https://perfan.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -97,7 +97,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  160: '/assets/logos/machine-learning-emoji.png'
+  160: '/assets/logos/whale-emoji.png'
 
 # 9. Site navigation
 navigation_header:
