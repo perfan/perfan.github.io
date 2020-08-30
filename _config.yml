@@ -49,9 +49,9 @@ author: EmilienDupont # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Emilien Dupont # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/emidup
-    - https://www.linkedin.com/in/emiliendupont
-    - https://github.com/EmilienDupont
+    - https://twitter.com/EPirmorad
+    - https://www.linkedin.com/in/erfan-pirmorad
+    - https://github.com/perfan
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -82,14 +82,14 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Emilien Dupont" # Site name or title, also used in jekyll-seo-tag
+title: "Erfan Pirmorad" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/whale-emoji.png" # Site logo, also used in jekyll-seo-tag
-description: "Machine Learning" # Site description and default description, also used in jekyll-seo-tag
-url: "https://emiliendupont.github.io" # Site url, also used in jekyll-seo-tag
+description: "Machine Learning & Computational Physics" # Site description and default description, also used in jekyll-seo-tag
+url: "https://perfan.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/EmilienDupont/emiliendupont.github.io"
-email: "emilien.dupont@stats.ox.ac.uk"
-disqus: "emiliendupont" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+repo: "https://github.com/perfan/perfan.github.io"
+email: "pirmorad@mie.utoronto.ca"
+disqus: "perfan" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 google_analytics: 'UA-109900176-1'
 # google_analytics_anonymize_ip: ''
 # service_worker: false # Will turn off the service worker if set to false
@@ -110,15 +110,15 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Visualizations
-  url: https://observablehq.com/@emiliendupont
+  # url: https://observablehq.com/@emiliendupont
 
 navigation_footer:
-- title: Emilien Dupont
-  url: https://emiliendupont.github.io
+- title: Erfan Pirmorad
+  url: https://perfan.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/emidup
-  LinkedIn: https://www.linkedin.com/in/emiliendupont
-  GitHub: https://github.com/EmilienDupont
-  link: https://emiliendupont.github.io
+  Twitter: https://twitter.com/EPirmorad
+  LinkedIn:https://www.linkedin.com/in/erfan-pirmorad
+  GitHub: https://github.com/perfan
+  link: https://perfan.github.io
   RSS: /feed.xml

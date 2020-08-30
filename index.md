@@ -1,5 +1,5 @@
 ---
-title: Hello!
+title:
 layout: page
 ---
 
@@ -10,19 +10,19 @@ layout: page
     Emilien Dupont
   </p>
   <p style="text-align:center; margin:0%;">
-    <a href="https://www.twitter.com/emidup">
+    <a href="https://www.twitter.com/EPirmorad">
       {% include icon.html id="twitter" title="twitter" %}
     </a>
     &nbsp;
-    <a href="https://github.com/EmilienDupont">
+    <a href="https://github.com/perfan">
       {% include icon.html id="github" title="github" %}
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/emiliendupont">
+    <a href="https://linkedin.com/in/erfan-pirmorad">
       {% include icon.html id="linkedin" title="linkedin" %}
     </a>
     &nbsp;
-    <a href="https://scholar.google.com/citations?user=IY5WyIEAAAAJ&hl=en">
+    <a href="https://scholar.google.com/">
       {% include icon.html id="google-scholar" title="scholar" %}
     </a>
   </p>
