@@ -33,7 +33,7 @@ I'm a Grad student and research assistant at [University of Toronto](https://www
 
 My main research interest is on machine learning for scientific computing, the so-called Scientific Machine Learning, that embraces Physics-based and Data-driven modeling for Computational Physics, with focus on discovering physics of fluids and controlling flow behaviours through Deep Reinforcement Learning. Highly skilled in Software Development with expertise in Parallel Programming. Knowledgeable in many facets of High Performance Computing, including shared and distributed memory paradigms.
 
-Before my Grad studies, I worked years as a undergraduate student at [University of Tehran](https://ut.ac.ir/en) with [Mehrdad Raisee Dehkordi](https://scholar.google.com/citations?user=io_-4-4AAAAJ&hl=en) on model reduction for turbulence modeling using machine learning techniques, where I studied [Mechanical Engineering](https://me.ut.ac.ir/en/home/) and [Computer Science](https://ut.ac.ir/en/page/363/school-of-mathematics-statistics-and-computer-science).
+Before my Grad studies, I worked years as an undergraduate student at [University of Tehran](https://ut.ac.ir/en) with [Mehrdad Raisee Dehkordi](https://scholar.google.com/citations?user=io_-4-4AAAAJ&hl=en) on model reduction for turbulence modeling using machine learning techniques, where I studied [Mechanical Engineering](https://me.ut.ac.ir/en/home/) and [Computer Science](https://ut.ac.ir/en/page/363/school-of-mathematics-statistics-and-computer-science).
 
 ### Contact
 
