@@ -83,7 +83,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Erfan Pirmorad" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/whale-emoji.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/machine-learning-emoji.png" # Site logo, also used in jekyll-seo-tag
 description: "Machine Learning & Computational Physics" # Site description and default description, also used in jekyll-seo-tag
 url: "https://perfan.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
