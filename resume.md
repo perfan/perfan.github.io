@@ -65,7 +65,7 @@ For more details, you can download the pdf version of my resume [{% include icon
     </p>
     Graduate Research Assistant<br>
     <p style="color:#7a7a7a">
-      Full-timeg research assistant at Interfacial Flow Lab at [MIE Dept.](https://www.mie.utoronto.ca/) at University of Toronto. 
+      Full-timeg research assistant at Interfacial Flow Lab at Mechanical & Industrial Engineering. 
     </p>
   </div>
 
